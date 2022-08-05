@@ -1,4 +1,4 @@
-# 1.16.5
+# 1.16.3-4-5
 net/minecraft/server/v1_16_R3/PlayerChunkMap:
   - saveChunk(net.minecraft.server.v1_16_R3.IChunkAccess)@v1_16_R3/PlayerChunkMap_saveChunk.txt
   - f(net.minecraft.server.v1_16_R3.ChunkCoordIntPair)@v1_16_R3/PlayerChunkMap_loadChunk.txt
@@ -12,7 +12,7 @@ net/minecraft/server/v1_16_R3/MinecraftServer:
 org/bukkit/craftbukkit/v1_16_R3/CraftServer:
   - addWorld(org.bukkit.World)@v1_16_R3/CraftServer_addWorld.txt
 
-# 1.16
+# 1.16.2
 net/minecraft/server/v1_16_R2/PlayerChunkMap:
   - saveChunk(net.minecraft.server.v1_16_R2.IChunkAccess)@v1_16_R2/PlayerChunkMap_saveChunk.txt
   - f(net.minecraft.server.v1_16_R2.ChunkCoordIntPair)@v1_16_R2/PlayerChunkMap_loadChunk.txt
