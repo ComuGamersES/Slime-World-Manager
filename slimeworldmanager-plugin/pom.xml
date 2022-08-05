@@ -53,11 +53,6 @@
         </dependency>
         <dependency>
             <groupId>com.grinderwolf</groupId>
-            <artifactId>slimeworldmanager-nms-v1_10_R1</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.grinderwolf</groupId>
             <artifactId>slimeworldmanager-nms-v1_11_R1</artifactId>
             <version>${project.version}</version>
         </dependency>
@@ -167,10 +162,6 @@
                         <relocation>
                             <pattern>org.bson</pattern>
                             <shadedPattern>com.grinderwolf.swm.internal.org.bson</shadedPattern>
-                        </relocation>
-                        <relocation>
-                            <pattern>com.github.luben.zstd</pattern>
-                            <shadedPattern>com.grinderwolf.swm.internal.zstd</shadedPattern>
                         </relocation>
                     </relocations>
                 </configuration>
