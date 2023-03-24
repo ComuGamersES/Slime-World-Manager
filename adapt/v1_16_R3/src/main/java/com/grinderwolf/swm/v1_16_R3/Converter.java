@@ -1,7 +1,7 @@
 package com.grinderwolf.swm.v1_16_R3;
 
-import com.flowpowered.nbt.*;
 import com.flowpowered.nbt.Tag;
+import com.flowpowered.nbt.*;
 import com.grinderwolf.swm.api.utils.NibbleArray;
 import net.minecraft.server.v1_16_R3.*;
 import org.apache.logging.log4j.LogManager;
